@@ -1,0 +1,5 @@
+,total_fin_assets,hh_income,planned_retirement_age,years_savings_will_last
+total_fin_assets,1.0,0.581,-0.0995,0.4104
+hh_income,0.581,1.0,-0.1853,0.354
+planned_retirement_age,-0.0995,-0.1853,1.0,-0.273
+years_savings_will_last,0.4104,0.354,-0.273,1.0

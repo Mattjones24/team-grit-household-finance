@@ -1,0 +1,6 @@
+income_group,n_planned_age,median_planned_retirement_age,mean_planned_retirement_age,n_years_last,median_years_savings_will_last,mean_years_savings_will_last,pct_saying_savings_too_little,median_expected_savings_at_retirement
+1. Under $35k,842.0,69.0,68.1667,764.0,10.0,11.0625,0.615,20000.0
+2. $35k-$60k,874.0,68.0,68.2644,759.0,10.0,13.3547,0.6082,75000.0
+3. $60k-$100k,1243.0,67.0,66.7675,1078.0,15.0,14.8063,0.5606,200000.0
+4. $100k-$150k,806.0,65.0,65.8679,701.0,20.0,18.9173,0.4319,500000.0
+5. $150k+,744.0,65.0,65.4536,657.0,20.0,22.0085,0.3393,1000000.0
