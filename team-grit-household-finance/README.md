@@ -5,7 +5,7 @@
 How do income, debt and savings shape a household's day-to-day financial choices, its debt risk, and its retirement plans? We answer three research questions using 6,809 responses from the Federal Reserve Bank of New York's **Survey of Consumer Expectations (SCE) — Household Finance** microdata (2014–2019).
 
 📄 **Full report:** [`report/Business_Case_Report.md`](report/Business_Case_Report.md)  
-🎤 **Slides:** [`presentation/Team_Grit_Presentation.pdf`](presentation/Team_Grit_Presentation.pdf) · **Script:** [`presentation/Presentation_Script.md`](presentation/Presentation_Script.md)  
+🎤 **Slides:** [`presentation/Team_Grit_Presentation.pdf`](presentation/Team_Grit_Presentation.pdf)  
 👥 **Team Grit:** Matthew Jones, Maria Mummau, Kellen Gradisar, Kiefer Cuppet
 
 ---
@@ -40,8 +40,7 @@ How do income, debt and savings shape a household's day-to-day financial choices
 ├── report/
 │   └── Business_Case_Report.md        ← business case, objectives, method, findings, recommendations
 ├── presentation/
-│   ├── Team_Grit_Presentation.pdf     ← 16-slide deck
-│   └── Presentation_Script.md         ← speaker script by presenter
+│   └── Team_Grit_Presentation.pdf     ← 16-slide deck
 ├── data/
 │   ├── DATA_SOURCE.md                 ← where the data comes from + how to download it
 │   ├── codebook.csv                   ← FRBNY variable definitions & answer codes
